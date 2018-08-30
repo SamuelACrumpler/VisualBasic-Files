@@ -1,0 +1,14 @@
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.exe.config
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.pdb
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh_Project.frmMain.resources
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh_Project.Resources.resources
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap03\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Shiloh Solution\Shiloh Project\bin\Debug\Shiloh Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Shiloh Solution\Shiloh Project\obj\Debug\Shiloh Project.pdb

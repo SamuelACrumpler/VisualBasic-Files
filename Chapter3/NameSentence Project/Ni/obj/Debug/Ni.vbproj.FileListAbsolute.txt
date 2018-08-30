@@ -1,0 +1,10 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.Form1.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.pdb

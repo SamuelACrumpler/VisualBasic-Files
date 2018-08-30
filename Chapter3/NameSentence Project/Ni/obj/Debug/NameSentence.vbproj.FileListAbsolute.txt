@@ -1,0 +1,24 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\bin\Debug\Ni.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\NameSentence.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Ni\Ni\obj\Debug\Ni.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap2\NameSentence Project\Ni\bin\Debug\Ni.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap2\NameSentence Project\Ni\obj\Debug\Ni.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap2\NameSentence Project\Ni\obj\Debug\Ni.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap2\NameSentence Project\Ni\obj\Debug\Ni.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\bin\Debug\Ni.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\Ni.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\Ni.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\Ni.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\bin\Debug\Ni.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\bin\Debug\Ni.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\bin\Debug\Ni.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\Ni.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\Ni.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\NameSentence Project\Ni\obj\Debug\NameSentence.vbproj.GenerateResource.Cache

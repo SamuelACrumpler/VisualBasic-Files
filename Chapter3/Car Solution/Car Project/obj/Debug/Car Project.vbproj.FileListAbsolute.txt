@@ -1,0 +1,22 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\bin\Debug\Car Project.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\bin\Debug\Car Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\bin\Debug\Car Project.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\bin\Debug\Car Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car_Project.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car_Project.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car Project.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Car Solution\Car Project\obj\Debug\Car Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Car Solution\Car Project\bin\Debug\Car Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.pdb
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.vbprojResolveAssemblyReference.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car_Project.frmMain.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car_Project.Resources.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.vbproj.GenerateResource.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.vbproj.CoreCompileInputs.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.exe
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.xml
+G:\Backup stuff\visual studio projects\2012\Projects\Chap3\Car Solution\Car Project\obj\Debug\Car Project.pdb
