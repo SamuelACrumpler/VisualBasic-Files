@@ -1,0 +1,14 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\bin\Debug\Commission Calculator Project.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission_Calculator_Project.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission_Calculator_Project.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\bin\Debug\Commission Calculator Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\bin\Debug\Commission Calculator Project.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\bin\Debug\Commission Calculator Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Commission Calculator Solution\Commission Calculator Project\bin\Debug\Commission Calculator Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Commission Calculator Solution\Commission Calculator Project\obj\Debug\Commission Calculator Project.pdb

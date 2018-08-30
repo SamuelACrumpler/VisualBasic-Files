@@ -1,0 +1,14 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo_Project.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo_Project.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Corondo Solution\Corondo Project\bin\Debug\Corondo Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap4\Corondo Solution\Corondo Project\obj\Debug\Corondo Project.pdb
