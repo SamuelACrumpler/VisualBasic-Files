@@ -1,0 +1,20 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\bin\Debug\DoLoop Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\DoLoop Solution\DoLoop Project\obj\Debug\DoLoop Project.vbproj.GenerateResource.Cache

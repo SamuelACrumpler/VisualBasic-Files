@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\bin\Debug\Zip Code Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\bin\Debug\Zip Code Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\bin\Debug\Zip Code Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\bin\Debug\Zip Code Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip_Code_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip_Code_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip Code Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip Code Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip Code Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Zip Code Solution\Zip Code Project\obj\Debug\Zip Code Project.pdb

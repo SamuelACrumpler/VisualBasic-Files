@@ -1,0 +1,20 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\bin\Debug\Table Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\bin\Debug\Table Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\bin\Debug\Table Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\bin\Debug\Table Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Table Solution\Table Project\obj\Debug\Table Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\bin\Debug\Table Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\bin\Debug\Table Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\bin\Debug\Table Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\bin\Debug\Table Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap6\Table Solution\Table Project\obj\Debug\Table Project.vbproj.GenerateResource.Cache
