@@ -1,0 +1,10 @@
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe.config
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.pdb
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\bin\Debug\Bonus Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.frmMain.resources
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus_Project.Resources.resources
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap08\Bonus Solution\Bonus Project\obj\Debug\Bonus Project.pdb

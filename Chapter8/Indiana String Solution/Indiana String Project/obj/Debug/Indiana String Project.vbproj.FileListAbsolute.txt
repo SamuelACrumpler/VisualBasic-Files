@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\bin\Debug\Indiana String Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana_String_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana_String_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana String Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\bin\Debug\Indiana String Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\bin\Debug\Indiana String Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\bin\Debug\Indiana String Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana String Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana String Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Indiana String Solution\Indiana String Project\obj\Debug\Indiana String Project.pdb

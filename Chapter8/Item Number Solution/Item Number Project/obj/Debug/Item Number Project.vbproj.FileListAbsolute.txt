@@ -1,0 +1,20 @@
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe.config
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.frmMain.resources
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.Resources.resources
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.pdb
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.exe
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.xml
+C:\Users\Biospark\Downloads\VB2012\Chap08\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\bin\Debug\Item Number Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item_Number_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap8\Item Number Solution\Item Number Project\obj\Debug\Item Number Project.vbproj.GenerateResource.Cache
