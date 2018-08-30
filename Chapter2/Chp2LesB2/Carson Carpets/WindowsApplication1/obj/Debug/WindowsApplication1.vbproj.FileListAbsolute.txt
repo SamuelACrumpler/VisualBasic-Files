@@ -1,0 +1,10 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

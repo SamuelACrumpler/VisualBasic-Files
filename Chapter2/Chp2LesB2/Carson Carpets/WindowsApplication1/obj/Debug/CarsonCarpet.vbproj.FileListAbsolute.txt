@@ -1,0 +1,12 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\CarsonCarpet.vbprojResolveAssemblyReference.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\WindowsApplication1.frmMain.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\CarsonCarpet.vbproj.GenerateResource.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\CarsonCarpet.vbproj.CoreCompileInputs.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesB2\Carson Carpets\WindowsApplication1\obj\Debug\WindowsApplication1.pdb

@@ -1,0 +1,18 @@
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\bin\Debug\ABC Project.exe.config
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\bin\Debug\ABC Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\bin\Debug\ABC Project.pdb
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\bin\Debug\ABC Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC_Project.frmMain.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC_Project.Resources.resources
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.GenerateResource.Cache
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC Project.exe
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC Project.xml
+c:\users\biospark\documents\visual studio 2012\Projects\Chap2\ABC Solution\ABC Project\obj\Debug\ABC Project.pdb
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.vbprojResolveAssemblyReference.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC_Project.frmMain.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC_Project.Resources.resources
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.GenerateResource.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.vbproj.CoreCompileInputs.cache
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.exe
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.xml
+G:\Backup stuff\visual studio projects\2012\Projects\Chap2\Chp2LesC3\ABC Solution\ABC Project\obj\Debug\ABC Project.pdb
