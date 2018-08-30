@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb

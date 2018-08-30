@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\bin\Debug\Double Divide Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\bin\Debug\Double Divide Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\bin\Debug\Double Divide Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\bin\Debug\Double Divide Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double_Divide_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double_Divide_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double Divide Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double Divide Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double Divide Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Double Divide Solution\Double Divide Project\obj\Debug\Double Divide Project.pdb

@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\bin\Debug\Area Code Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\bin\Debug\Area Code Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\bin\Debug\Area Code Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\bin\Debug\Area Code Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area_Code_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area_Code_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area Code Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area Code Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area Code Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap7\Area Code Solution\Area Code Project\obj\Debug\Area Code Project.pdb
