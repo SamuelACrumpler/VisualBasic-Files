@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\bin\Debug\Covington Resort Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington_Resort_Project.frmMain.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington_Resort_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Covington Resort Solution\Covington Resort Project\obj\Debug\Covington Resort Project.pdb

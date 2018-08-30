@@ -1,0 +1,10 @@
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\bin\Debug\Concert Project.exe.config
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\bin\Debug\Concert Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\bin\Debug\Concert Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\bin\Debug\Concert Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert_Project.Resources.resources
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert Project.exe
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert Project.xml
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert Project.pdb
+C:\Users\Biospark\Documents\Visual Studio 2012\Projects\Chap5\Concert Solution\Concert Project\obj\Debug\Concert_Project.frmMain.resources
